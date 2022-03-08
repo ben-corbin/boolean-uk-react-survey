@@ -3,7 +3,7 @@ import AnswersList from './AnswersList'
 
 function Main() {
 
-  const [open, setOpen] = useState(false); //Ignore this state
+  const [open, setOpen] = useState(false);
 
 
   const blankForm = {
